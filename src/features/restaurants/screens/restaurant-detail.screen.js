@@ -10,5 +10,6 @@ export const RestaurantDetailScreen = ({ route }) => {
     <SafeArea>
       <RestaurantInfoCard restaurant={restaurant} />
     </SafeArea>
+    // Test push on different computer
   );
 };
